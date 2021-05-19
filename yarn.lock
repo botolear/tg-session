@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/@botol/dipo/-/dipo-0.0.6.tgz#9f3dc2d980d07788b26afac10fafe5637f2cfb91"
   integrity sha512-sqlIzwuLSNYfsrXeA2YlRprVa1OIPGqagTPT1vKFAYwbaDbg4tRolySTCSWt24YdhVJFydNqmjR89ElL8eSQVQ==
 
-"@botol/tg-bot@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@botol/tg-bot/-/tg-bot-0.0.1.tgz#8901d6c9b55b402e9734d628e11a4b6a8c070146"
-  integrity sha512-bppUad6sNIXV11LK35QRaSQQg2E9YiHBajVpkoG2baHTH1TMm0GpFWYnvYczV015Beludg9Yh5HEiuYAOncq2Q==
+"@botol/tg-bot@^0.x":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@botol/tg-bot/-/tg-bot-0.0.2.tgz#1e38c22f648bec9715a135c678434a392662ae44"
+  integrity sha512-w/GJIx/ybQ+55FppLiJi+NW89STWbTn0+x2jwrQEd2NqShUOTbCipkcWin58iHP/lqlK/S5S2g+rDBwjjhvB/Q==
   dependencies:
     "@botol/dipo" "^0.x"
     "@botol/tg-client" "^0.x"
