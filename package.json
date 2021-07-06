@@ -4,6 +4,21 @@
     "main": "build/session.js",
     "license": "MIT",
     "private": false,
+    "author": {
+        "name": "le-ar",
+        "url": "https://github.com/le-ar/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/botolear/tg-session"
+    },
+    "keywords": [
+        "dipo",
+        "composer",
+        "telegram",
+        "tg",
+        "bot"
+    ],
     "scripts": {
         "prepublish": "tsc"
     },
